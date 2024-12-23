@@ -1,4 +1,4 @@
-//..yey..
+//..hello..
 CheckNumber numberChecker = new CheckNumber(new HumanPlayer());
 numberChecker.CheckGivenNumber();
 class ChoosingSieveLogic
